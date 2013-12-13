@@ -12,6 +12,11 @@ Read next module for articles.
 == Description ==
 
 
+=== To do ===
+
+* Add read next to articles
+* Party
+
 == Installation ==
 
 == Frequently Asked Questions ==
