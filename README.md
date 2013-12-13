@@ -1,5 +1,5 @@
 === TODO: Plugin Name ===
-Contributors: Yuri VIctor
+Contributors: Yuri Victor
 Tags: recirculation
 Requires at least: 3.8
 Tested up to: 3.8
